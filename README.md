@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Douglas Rocha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Douglas Rocha
 
-<!---
-slashtp3/slashtp3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Phoenix, Arizona
+
+- I make cool things with my time
