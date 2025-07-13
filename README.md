@@ -1,1 +1,1 @@
-Doug
+Professional Neovim plugin installer.
